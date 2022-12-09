@@ -5,7 +5,7 @@
   "main": "appRoutes.js",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "uuid": "^3.3.2"
   },
   "devDependencies": {},
